@@ -1,10 +1,11 @@
-## App 
- A field service app that is used to learn.
+# Field service hub
+ A field service app that is used to learn development areas.
 
 
-## Technologies
-    .NET 10.0.31
 
+# Technologies
+    .NET 10
+ 
 
-## Build ways
+# Run
     dotnet run --project src/FieldServiceHub
