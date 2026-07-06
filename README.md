@@ -1,5 +1,5 @@
 ## App 
- An app that will be used to work with .NET and AI agents
+ A field service app that is used to learn.
 
 
 ## Technologies
