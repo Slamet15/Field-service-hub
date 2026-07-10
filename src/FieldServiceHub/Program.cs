@@ -1,1 +1,10 @@
-﻿Console.WriteLine("Hello, World!");
+﻿using FieldServiceHub.Domain;
+namespace FieldServiceHub
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        }
+    }
+}
